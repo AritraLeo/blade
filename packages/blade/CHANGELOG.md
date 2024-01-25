@@ -1,5 +1,30 @@
 # @razorpay/blade
 
+## 11.0.0
+
+### Major Changes
+
+- abd99bba: feat: revamp Blade with brand refresh changes
+
+  > [!WARNING]
+  >
+  > Breaking Change!
+  > This is a breaking change for all components in the library.
+  >
+  > Refer the [detailed v11 upgrade guide](https://github.com/razorpay/blade/blob/master/packages/blade/upgrade-v11.md) that contains instructions on how to use codemods for auto-upgrade along with manual steps if required
+
+## 10.23.5
+
+### Patch Changes
+
+- 3ac92ae4: fix(blade): expose card event type
+
+## 10.23.4
+
+### Patch Changes
+
+- d2a27c8a: feat(blade): add minHeight prop to Card
+
 ## 10.23.3
 
 ### Patch Changes
